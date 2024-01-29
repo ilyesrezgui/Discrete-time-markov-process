@@ -10,3 +10,5 @@ Characteristics Covered
 * Aperiodic States: A state is aperiodic if the chain can return to the state at any time.
 * Absorbing States: A state is absorbing if it is impossible to leave that state once entered.
 * CMTD verification :This repository also provides tools for verifying the Chapman–Kolmogorov forward equation (CMTD) for the Markov chain.
+
+
